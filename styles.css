@@ -47,6 +47,7 @@ form,
 }
 form{
     background-image: url(images/bg1.jpeg);
+    background-size: cover;
 }
 h1 {
   font-size: 32px;
