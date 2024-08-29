@@ -46,8 +46,7 @@ form,
     background-color: hsl(169, 82%, 27%);
 }
 form{
-    background-color: transparent;
-    backdrop-filter: blur(20px);
+    background-image: url(images/bg1.jpeg);
 }
 h1 {
   font-size: 32px;
@@ -81,7 +80,7 @@ textarea {
 }
 
 textarea {
-  height: 100px;
+  height: 200px;
   resize: vertical;
 }
 
