@@ -62,7 +62,21 @@ span{
 .form-group {
   margin-bottom: 20px;
 }
+.row{
+  display: flex;
+  gap: 10px;
+  justify-content: space-between;
+}
+.row1 input{
+  width: 270px;
+  border-radius: 2px;
+  height: 35px;
+}
+.row1{
+  gap: 10px;
+  display: flex;
 
+}
 label {
   display: block;
   margin-bottom: 5px;
