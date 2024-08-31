@@ -11,7 +11,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   color: hsl(0, 0%, 100%);
-  background-image: url(images/bg.jpeg);
+  background: linear-gradient(to bottom, #3366cc 0%, #ccffff 100%);
   background-size: cover;
   display: flex;
   flex-direction: column;
