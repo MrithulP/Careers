@@ -173,7 +173,7 @@ footer {
   text-align: center;
   margin-top: 20px;
   font-size: 15px;
-  color: hsl(0, 0%, 100%);
+  color: hsl(169, 82%, 27%);
 }
 
 footer a {
@@ -186,7 +186,7 @@ footer a {
 footer a:hover,
 footer a:focus {
   text-decoration: none;
-  color: hsl(0, 0%, 100%);
+  color: hsl(169, 82%, 27%);
 }
 
 /* Responsive design */
